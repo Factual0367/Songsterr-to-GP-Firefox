@@ -1,5 +1,5 @@
 <sub>
-<p align='center'><img  src="https://raw.githubusercontent.com/onurhanak/Songsterr-to-GuitarPro-Firefox/main/icon.png" height="100" width="auto"></p>
+<p align='center'><img  src="https://raw.githubusercontent.com/Factual0367/Songsterr-to-GuitarPro-Firefox/main/icon.png" height="100" width="auto"></p>
 </sub>
 <h1 align="center">Songsterr to Guitar Pro</h1>
 
