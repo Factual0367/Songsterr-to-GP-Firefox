@@ -9,7 +9,7 @@
 
 ## Usage
 
-Click on the extension icon to download the Songsterr tab as a Guitar Pro file.
+Open any tab on Songsterr and click on the extension icon to download the tab as a Guitar Pro file.
 
 ## Disclaimer
 
